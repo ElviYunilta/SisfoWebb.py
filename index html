@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Beranda - Elvi Yunilta</title>
+</head>
+<body>
+
+    <h1>Selamat Datang di Website Elvi Yunilta</h1>
+
+    <nav>
+        <a href="index.html">Beranda</a> |
+        <a href="about.html">Tentang</a> |
+        <a href="contact.html">Kontak</a>
+    </nav>
+
+    <hr>
+
+    <h2>Halo, Saya Elvi Yunilta</h2>
+    <p>Ini adalah landing page sederhana untuk menampilkan informasi tentang saya.</p>
+
+    <h3>Layanan</h3>
+    <ul>
+        <li>Desain Website</li>
+        <li>UI/UX</li>
+        <li>Pembuatan Landing Page</li>
+    </ul>
+
+    <p><a href="about.html">Lihat lebih banyak tentang saya →</a></p>
+
+</body>
+</html>
